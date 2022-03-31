@@ -5,18 +5,18 @@
 ## Contents
 
 - [Educational Resources](#educational-resources)
-- [Comunnities](#communities)
+- [Communities](#communities)
 - [Find-ability & FAIR](#find-ability--fair)
 - [Policies & Guidelines](#policies--guidelines)
 - [Scientific](#science)
 
 ##  Educational Resources
 
-- [Awesome RSE Communities](https://github.com/hifis-net/awesome-rse-education)
+- [A curated awesome list of educational resources with focus on RSE by HIFIS](https://github.com/hifis-net/awesome-rse-education)
 
 ## Communities
 
-- [Awesome RSE Communities](https://github.com/hifis-net/awesome-rse-communities)
+- [A curated awesome list of RSE communities by HIFIS](https://github.com/hifis-net/awesome-rse-communities)
 - [A curated list of GitHub organizations that primarily serve open source or academic software projects](https://github.com/rseng/awesome-rseng)
 
 ## Find-ability & FAIR
