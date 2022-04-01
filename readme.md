@@ -54,38 +54,7 @@ This is where we list information about meta data for research software
 - [Software Guidelines of the IPOL Journal](https://tools.ipol.im/wiki/ref/software_guidelines/)
 
 ## Science
-
-### Literature
-Different collections of relevant RSE literature:
-- Zotero Group RSE: <https://www.zotero.org/groups/2295543>
-- Zotero Group FAIR4RS: >https://www.zotero.org/groups/2501020/fair4rs/items/6H833P3W/library>
-- Zenodo Community Research Software: <https://zenodo.org/communities/researchsoftwarestudies>
-- Zenodo Community deRSE: <https://zenodo.org/communities/de-rse/>
-
-### RSE Conferences
-RSE Conferences sorted by year descending
-
-#### 2021
-- [SORSE](https://sorse.github.io/)
-- [SeptembRSE 2021](https://septembrse.society-rse.org)
-- [NeSI - New Zealand Research Software Engineering Conference](https://www.rseconference.nz/programme-tabs1/#tabs|1)
-
-#### 2020
-- [deRSE20](https://de-rse.org/deRSE20/)
-- [Nordic-RSE conference 2020](https://nordic-rse.org/conference)
-- [RSECon2020](https://rsecon2020.society-rse.org/)
-- [SORSE](https://sorse.github.io/)
-
-#### 2019
-- [RSEConUK](https://rse.ac.uk/conf2019/)
-- [deRSE19](https://www.de-rse.org/en/conf2019/)
-- [NL-RSE19](https://nl-rse.org/events/NL-RSE19.html)
-
-#### 2018
-- [RSEConUK](https://rse.ac.uk/conf2018/)
-
-#### 2017
-- [RSEConUK](https://rse.ac.uk/conf2017/)
+- [A curated awesome list of scientific resources around RSE by HIFIS](https://github.com/hifis-net/awesome-rse-science)
 
 ## Contribute
 
