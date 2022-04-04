@@ -24,13 +24,7 @@
 - [A curated awesome list of FAIR resources around RSE by HIFIS](https://github.com/hifis-net/awesome-rse-fair)
 
 ## Policies & Guidelines
-
-- [Guide and checklists of the DLR Software Engineering Initiative](https://rse.dlr.de/01_guidelines.html)
-- [Guides and checklists of the Software Sustainability Institute](https://www.software.ac.uk/guides)
-- [Guides and checklists of the Netherlands eScience Center](https://guide.esciencecenter.nl/#/)
-- [Software Assessment Guidelines of the Earth Science Information Partners](https://esipfed.github.io/Software-Assessment-Guidelines/)
-- [Software Quality Guidelines of CLARIAH](https://github.com/CLARIAH/software-quality-guidelines)
-- [Software Guidelines of the IPOL Journal](https://tools.ipol.im/wiki/ref/software_guidelines/)
+- [A curated awesome list of resources around RSE policies and guidelines by HIFIS](https://github.com/hifis-net/awesome-rse-policies)
 
 ## Science
 - [A curated awesome list of scientific resources around RSE by HIFIS](https://github.com/hifis-net/awesome-rse-science)
