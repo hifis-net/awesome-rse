@@ -3,21 +3,16 @@
 > A curated awesome list of resources for Research Software Engineering (RSE). Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
 
 ## Contents
-<!--
 - [Educational Resources](#educational-resources)
--->
 - [Communities](#communities)
 - [Find-ability & FAIR](#find-ability--fair)
 - [Policies & Guidelines](#policies--guidelines)
 - [Scientific](#science)
-- [Contribute](#contribute)
 
-<!--
+
 ##  Educational Resources
 
-
 - [A curated awesome list of educational resources with focus on RSE by HIFIS](https://github.com/hifis-net/awesome-rse-education)
--->
 
 ## Communities
 
@@ -33,6 +28,6 @@
 ## Science
 - [A curated awesome list of scientific resources around RSE by HIFIS](https://github.com/hifis-net/awesome-rse-science)
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
