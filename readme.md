@@ -1,5 +1,4 @@
 <!--lint disable remark-lint:double-link-->
-
 # Awesome Research Software Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated awesome list of resources for Research Software Engineering (RSE). Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
