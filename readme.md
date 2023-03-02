@@ -14,7 +14,6 @@ A curated awesome list of resources for Research Software Engineering (RSE). Ins
 [Policies & Guidelines](https://github.com/hifis-net/awesome-rse-policies)&nbsp;&nbsp;&nbsp;
 [Science](https://github.com/hifis-net/awesome-rse-science)
 
-
 ## Contents
 - [Educational Resources](#educational-resources)
 - [Communities](#communities)
@@ -22,7 +21,7 @@ A curated awesome list of resources for Research Software Engineering (RSE). Ins
 - [Policies & Guidelines](#policies--guidelines)
 - [Science](#science)
 
-##  Educational Resources
+## Educational Resources
 Here we collect educational resources customized to the needs of research software engineers and scientists developing software. Topics cover software design and architecture, software documentation, software development, trainings and courses.
 
 - [A curated awesome list of educational resources with focus on RSE by HIFIS](https://github.com/hifis-net/awesome-rse-education)
