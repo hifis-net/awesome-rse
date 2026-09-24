@@ -1,0 +1,42 @@
+name: Search request
+description: Request a search for a specific topic within the awesome RSE lists.
+title: "[Search] "
+labels: ["help wanted"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to request a search for a specific topic within the awesome RSE lists.
+
+        **Please note:** For straightforward updates (adding, removing, or changing entries),
+        **do not open an issue** — just make the change in the affected list repository and
+        open a [pull request](https://github.com/hifis-net/awesome-rse/blob/main/contributing.md).
+  - type: textarea
+    id: topic
+    attributes:
+      label: Topic
+      description: What topic are you searching for?
+      placeholder: e.g. Training resources on research software citation and licensing
+    validations:
+      required: true
+  - type: checkboxes
+    id: list
+    attributes:
+      label: List
+      description: Which awesome RSE list(s) should the search focus on? Check all that apply.
+      options:
+        - label: Educational Resources (awesome-rse-education)
+        - label: Communities (awesome-rse-communities)
+        - label: FAIR (awesome-rse-fair)
+        - label: Policies & Guidelines (awesome-rse-policies)
+        - label: Science (awesome-rse-science)
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: Search request
+      description: Describe what you are looking for, including keywords, search queries, or criteria to use.
+      placeholder: e.g. Search for courses, MOOCs, or tutorials published in 2025/2026 about FAIR principles for research software, to be added to the Education list.
+    validations:
+      required: true

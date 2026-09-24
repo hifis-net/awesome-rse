@@ -1,0 +1,39 @@
+name: Discussion
+description: Raise a larger topic that needs async discussion before or alongside the list updates.
+title: "[Discussion] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the awesome RSE lists!
+
+        **Please note:** For straightforward updates (adding, removing, or changing entries),
+        **do not open an issue** — just make the change in the affected list repository and
+        open a [pull request](https://github.com/hifis-net/awesome-rse/blob/main/contributing.md).
+
+        Use this template for larger topics that would benefit from async discussion.
+  - type: textarea
+    id: question
+    attributes:
+      label: Main question
+      description: What is the main question you want to discuss?
+      placeholder: e.g. Should we split the Communities list into national and international sections?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope / idea
+      description: What is the scope or idea behind the question? Which list(s) and topic(s) are affected, and why does it matter for the current update?
+      placeholder: e.g. The Communities list mixes global initiatives with national RSE associations; the current update makes that structure hard to follow.
+    validations:
+      required: true
+  - type: textarea
+    id: action
+    attributes:
+      label: Proposed action
+      description: What action do you propose or want to discuss? E.g. a specific change, a decision to be made, or a suggested next step.
+      placeholder: e.g. Split the list into two sections during this session, or defer the split to a follow-up and keep the current structure for now.
+    validations:
+      required: true

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contribute to the awesome RSE lists
+    url: https://github.com/hifis-net/awesome-rse/blob/main/contributing.md
+    about: >-
+      Issues are not for the updates themselves. For adding, removing, or changing
+      entries, please make the change in the affected list repository and open a
+      pull request directly.
